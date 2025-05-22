@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+I am an autistic person <br />
+
+I know the basics of programming<br />
+
+I strive to improve more and more<br />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MmH6wNfD) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/DiverOk2436/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@walysonw?si=QvgQdvWYvHByv3uD) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:walisonmedeiros43@gmail.com) 
