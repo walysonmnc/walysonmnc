@@ -2,7 +2,7 @@
 
 💚I am an autistic person <br />
 
-✅🇧🇷 I'm from brazil <br />
+✅I'm from brazil <br />
 
 🤔I know the basics of programming<br />
 
